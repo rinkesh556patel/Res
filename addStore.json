@@ -1,0 +1,23 @@
+{
+ "status": 201,
+ "success": true,
+ "message": {
+ "status": 1,
+ "id": "3",
+ "username": "mersalin",
+ "firstName": "Mersalin",
+ "lastName": "Maria",
+ "password":
+"$2a$10$rKrTALvzsOyCnGbUM/fh/uXGSHRzUJtXk6aNMQVeBZu7SNoTv6aLK",
+ "email": "hay@outlook.com",
+ "role": 0,
+ "updatedAt": "2020-09-02T11:12:35.987Z",
+ "createdAt": "2020-09-02T11:12:35.987Z",
+ "city": null,
+ "gender": null,
+ "phone_number": null,
+ "social_id": null,
+ "social_type": null,
+ "store_id": null
+ }
+}
